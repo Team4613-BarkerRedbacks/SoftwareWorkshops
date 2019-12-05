@@ -36,6 +36,7 @@ These are the workshops that are used to teach our new programmers java and ftc 
 
 ## Acknowledgements
 These workshops don't seek to be an original piece of work, but rather act as an amalgamation of various knowledge banks to provide a useful tool both for learning and for reference. As such several sources need to be acknowleged:
+* Ben Schwarz (Author)
 * Sean Zammit
 * Matt Brian 
 * Tom Schwarz
